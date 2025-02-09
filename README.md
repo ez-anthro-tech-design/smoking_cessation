@@ -1,6 +1,8 @@
 # Smoking Cessation on BMI Change
 ## Visual Data Presentation: 
 Created tables and plots (density and bar charts) to visualize distributions of categorical variables by smoking cessation status.
+
+
 ## Regression Models: 
 Built multiple regression models adjusting for various confounders (age, sex, education, etc.) to determine variable contributions.
 ## Inverse Probability Weighting (IPW): 
